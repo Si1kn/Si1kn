@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Si1kn</h1>
+<h3 align="center">I'm a java dev who creates ac!</h3>
 
-<!--
-**Si1kn/Si1kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=si1kn" alt="si1kn" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a minecraft anticheat **Overlord**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **si1kn521@gmail.com**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=si1kn&layout=compact&hide=html" alt="si1kn" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=si1kn&show_icons=true" alt="si1kn" />
+
