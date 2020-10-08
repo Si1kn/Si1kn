@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Si1kn</h1>
-<h3 align="center">I like to java!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=si1kn" alt="si1kn" /> </p>
 
