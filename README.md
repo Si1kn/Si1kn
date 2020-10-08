@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=si1kn" alt="si1kn" /> </p>
 
-- 🔭 I’m currently working on a minecraft anticheat **Overlord**
+- 🔭 I’m currently working on TecknixClient @TecknixClient
 
 - 📫 How to reach me **si1kn521@gmail.com**
 
