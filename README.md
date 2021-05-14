@@ -4,3 +4,4 @@
 *   📫  How to reach me  **[si1kn521@gmail.com](mailto:si1kn521@gmail.com)**
 *   📫  Talk to me on discord:  Si1kn#0481
 * Can program in java and JavaScript.
+* Programming custom spigot plugins.
