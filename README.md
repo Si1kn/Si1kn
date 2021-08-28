@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=si1kn&label=Profile%20views&color=0e75b6&style=flat" alt="si1kn" /> </p>
 
-- 🔭 I’m currently working on [FoldNetwork](https://github.com/FoldGG)
+- 🔭 I’m currently working on Nothing
 
 - 📫 How to reach me **si1kn521@gmail.com**
 
