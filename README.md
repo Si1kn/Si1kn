@@ -6,7 +6,3 @@
 - 📫 ǝɯ ɥɔɐǝɹ oʇ ʍoH **si1kn521@gmail.com**
 
 - ⚡ ʇɔɐɟ unℲ  **˙uɐɯ uʍop ǝpᴉsdn uɐᴉlɐɹʇsn∀ ɯɐ I**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=si1kn&show_icons=true&locale=en&layout=compact" alt="si1kn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si1kn&show_icons=true&locale=en" alt="si1kn" /></p>
